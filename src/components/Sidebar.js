@@ -67,7 +67,7 @@ const menuItems = [
   },
   { 
     text: 'Layanan', 
-    icon: <DescriptionIcon />, 
+    icon: <DocumentIcon />, 
     path: null,
     children: [
       { text: 'Persuratan', path: '/admin/layanan/persuratan' },
@@ -77,7 +77,7 @@ const menuItems = [
   },
   { 
     text: 'Laporan', 
-    icon: <AssessmentIcon />, 
+    icon: <ReportIcon />, 
     path: null,
     children: [
       { text: 'Statistik Penduduk', path: '/admin/laporan/statistik' },
